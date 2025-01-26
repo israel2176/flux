@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240">
+  <!-- Background Rectangle -->
+  <rect width="400" height="240" fill="#1e293b"/>
+  
+  <!-- Dynamic flowing curves -->
+  <path d="M50 100 C150 50, 250 150, 350 100" 
+        stroke="#60a5fa" 
+        stroke-width="12" 
+        fill="none" 
+        stroke-linecap="round"/>
+  
+  <!-- Main Text -->
+  <text x="200" y="120" 
+        font-family="Arial, sans-serif" 
+        font-size="72" 
+        font-weight="bold" 
+        text-anchor="middle" 
+        fill="#f8fafc"
+        stroke="#0f172a"
+        stroke-width="2">
+    FLUX
+  </text>
+  
+  <!-- Slogan -->
+  <text x="200" y="180" 
+        font-family="Arial, sans-serif" 
+        font-size="24" 
+        text-anchor="middle" 
+        fill="#94a3b8">
+    Transform • Accelerate • Flow
+  </text>
+  
+  <!-- Bright accent particles -->
+  <circle cx="80" cy="90" r="5" fill="#93c5fd"/>
+  <circle cx="320" cy="110" r="5" fill="#93c5fd"/>
+  <circle cx="200" cy="70" r="4" fill="#93c5fd"/>
+</svg>
